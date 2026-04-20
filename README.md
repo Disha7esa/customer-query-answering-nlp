@@ -8,6 +8,7 @@ This project is an NLP-based Question Answering system that uses Semantic Search
 It solves the problem of keyword-based search by understanding the meaning of queries.
 
 🛠️ Tech Stack
+
 Python
 PyTorch
 FAISS
