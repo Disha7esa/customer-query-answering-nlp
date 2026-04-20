@@ -13,10 +13,9 @@ PyTorch
 FAISS
 Sentence Transformers
 DistilBERT
+
 🏗️ Architecture
-
 Two-stage pipeline:
-
 1. Semantic Search
 Convert context → embeddings
 Store in FAISS
