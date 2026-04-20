@@ -25,6 +25,20 @@ Retrieve most relevant context
 Use DistilBERT QA model
 Predict answer span
 
+customer-query-answering-nlp/
+│
+├── data/
+│
+├── src/
+│   ├── search_context.py
+│   ├── model.py
+│   ├── main.py
+│
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── screenshots/
+
 📊 Dataset
 Stanford Question Answering Dataset (SQuAD)
 Context-based QA from Wikipedia
